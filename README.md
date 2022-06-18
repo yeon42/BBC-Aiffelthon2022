@@ -1,6 +1,6 @@
-# AIFFEL x SOCAR
+# AIFFEL x SOCAR Hackathon
 - 팀명: BBC(붕붕케어)
-- 주제: SOCAR 메모 카테고리 자동 분류 챗봇
+- 주제: **SOCAR 메모 카테고리 자동 분류 챗봇**
 - 참여자: 민선아, 서동철, 이정연, 홍성진
 
 <br/>
