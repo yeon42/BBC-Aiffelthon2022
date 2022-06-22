@@ -31,6 +31,15 @@
 |민선아|팀원|Django 웹 개발 및 기본 세팅, 자료 조사 및 논문 탐색|
 |서동철|팀원|마케팅 포인트 도출, GCP 웹 서버, 자료 조사 및 논문 탐색|
 
+<br/>
+
+### 사용한 기술 스택
+- Python
+- Tensorflow
+- Goole Colab, Jupyter Notebook
+- Google Cloud Platform
+- Git
+- Django
 
 <br/>
 
